@@ -11,6 +11,8 @@
   "dependencies": {
     "@clerk/nextjs": "^6.35.3",
     "@clerk/themes": "^2.4.38",
+    "flowbite-react": "^0.12.10",
+    "geist": "^1.5.1",
     "next": "16.0.3",
     "react": "19.2.0",
     "react-dom": "19.2.0",
